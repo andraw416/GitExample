@@ -12,5 +12,7 @@ public class GitExample {
         System.out.println("fixed one");
 
         System.out.println("we are all sooo confused");
+        System.out.println("blah blah  blah");
+        System.out.println("asdaksjdhas");
     }
 }
